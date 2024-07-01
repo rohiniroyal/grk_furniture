@@ -1,0 +1,459 @@
+body{
+    margin :0px;
+}
+#header{
+    background-color: rgb(236, 234, 234);
+    text-align: center;
+    padding:30px;
+    
+}
+nav>a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-right: 30px;
+    font-family:sans-serif;
+
+}
+#home{
+    color:orangered;
+    margin-left: 200px;
+}
+#logo1{
+    color:orangered;
+}
+#logo{
+    font-size: 25px;
+    float: left;
+    margin-left: 50px;
+}
+
+#symbol{
+    margin-left: 250px;
+}
+#container{
+    height:600px;
+    background-color: rgb(236, 234, 234);
+    padding:30px;
+}
+#container1{
+    width:55%;
+    height:90%;
+    
+    display: inline-block;
+    margin-left: 50px;
+}
+#container2{
+    width:30%;
+    height:90%;
+    display:inline-block;
+    margin-left: 50px;
+}
+#heading{
+    font-size: 23px;
+    color:rgb(104, 99, 99);
+    font-family: sans-serif;
+}
+#title{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+#content{
+    font-size: 18px;
+    color:grey;
+}
+#cost{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#cost1{
+    font-size: 20px;
+    font-family: sans-serif;
+    color:grey;
+    text-decoration:line-through;
+    margin-left: 10px;
+}
+
+#button1{
+    background-color: orangered;
+    width:150px;
+    height:50px;
+    color:white;
+    font-family: sans-serif;
+    font-size: 15px;
+    border-color: transparent;
+
+}
+#button2{
+    background-color: transparent;
+    width:150px;
+    height:50px;
+    color:orangered;
+    font-family: sans-serif;
+    font-size: 15px;
+    border-color: transparent;
+
+    
+}
+#slide_image{
+    width:100%;
+    height:100%;
+}
+
+#popular_products{
+    height:400px;
+    padding: 40px 50px;
+}
+#product1{
+    width: 20%;
+    height: 90%;
+    background-color: rgb(236, 234, 234);
+    display:inline-block;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+
+#product2{
+    width: 45%;
+    height: 90%;
+    background-color: rgb(236, 234, 234);
+    display:inline-block;
+    margin-right: 10px;
+}
+#product3{
+    width: 20%;
+    height: 90%;
+    background-color: rgb(236, 234, 234);
+    display:inline-block;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+#product11{
+    width:100%;
+    height:50%;
+    
+}
+#product21{
+    width:48%;
+    height:100%;
+    display:inline-block;
+}
+#product22{
+    width:50%;
+    height:100%;
+    
+    display:inline-block;
+}
+#popular_img1{
+    width:50%;
+    height:70%;
+    margin-left: 25%;
+    margin-top: 15%;
+    
+}
+#popular_img2{
+    width:50%;
+    height:70%;
+    margin-left: 25%;
+    margin-top: 15%;
+    
+}
+#popular_img3{
+    width:50%;
+    height:80%;
+    margin-left: 25%;
+    
+    
+}
+.product-title{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+.product-title1{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.product-content{
+    text-align: center;
+    font-size: 17px;
+    color:grey;
+    padding:20px;
+}
+.product-content1{
+    font-size: 17px;
+    color:grey;
+}
+.start_price{
+    font-size: 17px;
+    font-family: sans-serif;
+}
+#cost2{
+    color:orangered;
+}
+#discover{
+    width:150px;
+    height:50px;
+    background-color: transparent;
+    font-family: sans-serif;
+}
+
+/* for new Arrival */
+.arrival_title{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: -20px;
+}
+
+#arrival{
+    width:290px;
+    height:400px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#new_arrival{
+    padding:100px;
+    margin-top: -60px;
+    
+}
+
+#brown_button{
+    width:100px;
+    height:50px;
+    background-color:peru;
+    color:white;
+    border-color: transparent;
+    float:right;
+
+}
+#green_button{
+    width:100px;
+    height:50px;
+    background-color:rgb(47, 167, 47);
+    color:white;
+    border-color: transparent;
+    float:right;
+}
+#arrival_images{
+    width:100%;
+    height:80%;
+    background-color: rgb(236, 234, 234);
+    
+}
+#arrival_img{
+    margin-left: 25%;
+    margin-top: 25%;
+    width:50%;
+    height:50%
+}
+.arrival_name{
+    text-align: center;
+    font-size: 17px;
+    color:grey;
+    margin: 10px;
+    font-family: sans-serif;
+}
+
+#collections{
+    margin: 40px;
+    height: 550px;
+    background-image:url("https://i.ibb.co/wstxxkc/sofa-collection-banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    margin-top: -50px;
+}
+#collections1{
+    height:100%;
+    width:450px;
+    background-color: rgba(0, 0, 0, 0.836);
+}
+#collections2{
+    margin-top: 25%;
+    height:70%;
+    width:550px;
+    font-family: sans-serif;
+    color:white;
+    margin-left: 100px;
+}
+#feauture_products{
+    margin:100px;
+}
+#fp1{
+    width:290px;
+    height:450px;
+    
+    display:inline-block;
+    margin-right: 20px;
+}
+#fp1_images{
+    width:100%;
+    height:70%;
+    
+}
+#fp1_img{
+    width:100%;
+    height:100%;
+}
+#fp1_content{
+    text-align: center;
+    background-color: transparent;
+    color:grey;
+    font-family: sans-serif;
+}
+.fa-star{
+    color:orange;
+    margin-right: 5px;
+    font-size: 20px;
+}
+#empty_star{
+    color:grey;
+}
+#review{
+    font-size: 18px;
+}
+#fp1_name{
+    margin-top:0px;
+}
+#blog{
+    height:600px;
+    margin: 100px 100px 0px 100px;
+    
+}
+#blog1{
+    width:400px;
+    height:500px;
+    display:inline-block;
+    margin-left: 20px;
+    font-family: sans-serif;
+
+}
+#blog1_images{
+    width:100%;
+    height:50%;
+    
+}
+#blog1_img{
+    width:100%;
+    height:100%;
+}
+#blog1_content{
+    color:grey;
+}
+
+#clients{
+    height: 200px;
+    margin: 50px 50px 50px 50px;
+    background-color: rgb(248, 247, 247);
+    
+}
+#clients_images{
+    width:10%;
+    height:70%;
+    margin-top: 3%;
+    
+    margin-right: 50px;
+    display:inline-block;
+}
+.clients_images{
+    margin-left: 200px;
+}
+#clients_img{
+    width: 100%;
+    height: 50%;
+    margin-top: 25%;
+}
+#footer{
+    height:400px;
+    margin: 50px 100px 0px 100px;
+    font-family: sans-serif;
+}
+#footer_content1{
+    width: 20%;
+    height:70%;
+    
+    margin-top: 5%;
+    display: inline-block;
+    margin-right: 30px;
+}
+#footer_content4{
+    width: 25%;
+    height:70%;
+    
+    margin-top: 5%;
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+#footer_title{
+    font-size: 20px;
+}
+#footer_a{
+    display: block;
+    text-decoration: none;
+    font-size: 17px;
+    color: grey;
+    margin-top: 10px;
+}
+#footer_email{
+    font-size: 17px;
+    color: grey;
+}
+input{
+    border-color: transparent;
+    width:70%;
+    height: 25px;
+    padding: 10px;
+    box-shadow: 0px 0px 10px grey;
+}
+#send_button{
+    width:50px;
+    height:50px;
+    color:orangered;
+    border-color: transparent;
+    box-shadow: 0px 0px 5px grey;
+}
+#footer_end{
+    background-color: rgb(248, 247, 247);
+    height:100px;
+    margin: 0px 50px;
+}
+#end_content{
+    text-align: center;
+    font-size: 20px;
+    color:grey;
+}
+#end_icon{
+    margin-left: 20px;
+    color:grey;
+    margin-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
+#end_content1{
+    text-align: center;
+    font-size: 18px;
+    color:grey;
+}
+#arrow_mark{
+    background-color: orange;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    color:white;
+    text-align: center;
+    float: right;
+    margin-top: -70px;
+    margin-right: 30px;
+}
+#arrow_icon{
+    margin-top: 15px;
+    font-size: 25px;
+}
